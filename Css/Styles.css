@@ -10,7 +10,7 @@ body, html{
 }
 
 
-/SCTION CONTAINER FIRTS/
+/*SCTION CONTAINER FIRTS*/
 .container{
     width: 100%;
     height: auto;
@@ -99,7 +99,7 @@ body, html{
 }
 
 
-/SECTION TWO/
+/*SECTION TWO*/
 .container .coursers{
     background-color: rgb(115, 116, 119);
     width: 100%;
