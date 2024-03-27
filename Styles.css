@@ -147,6 +147,49 @@ body, html{
    margin: 0;
    padding: 10px;
   }
+.coursers .contenidoCourses .contenidoCourses2  h3{
+    color: #2F81F7;
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+}
+.contenidoCourses2 p{
+    color: grey;
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+}
+.contenidoCourses2 .cursos2{
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
 
+}
+.contenidoCourses2 .cards2{
+    width: 33%;
+    height: 100px;
+    border-radius: 5px;
+    border: 1px solid #30363D;
+    padding: 10px;
+}
+.contenidoCourses2 .cursos2-1{
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.contenidoCourses2 .cursos2-1 .cards2-1{
+    width: 33%;
+    height: 100px;
+    border-radius: 5px;
+    border: 1px solid #30363D;
+    padding: 16px;
+    margin-top: 22px;
+    margin-bottom: 16px;
+    
+}
  
 
