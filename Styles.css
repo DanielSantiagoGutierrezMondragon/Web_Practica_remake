@@ -118,7 +118,7 @@ body, html{
 .container .coursers .contenidoCourses h2{
    color: white;
 }
-.container .coursers .contenidoCourses h3{
+.container .coursers .contenidoCourses .titulo1{
     color: #2F81F7;
  }
  .container .coursers .contenidoCourses .cursos{
@@ -254,10 +254,10 @@ body, html{
     margin-bottom:16px;
 }
 .contenidoCourses4 .cursos4-1{
-    width:100%;
+    width:92%;
     display:flex;
     gap:10px;
-    justify-content:center;
+    justify-content:left;
     align-items:center;
 }
 .contenidoCourses4 .cursos4-1 .cards4-1{
@@ -269,3 +269,57 @@ body, html{
     margin-top:  8px;
     margin-bottom:16px;
 }
+
+
+.contenidoCourses .rectangulo{
+    width: 100%;
+    display: flex;
+    border-radius: 5px;
+    border:1px solid #30363D;
+    margin-top: 40px;
+    padding: 16px;
+    align-items: center;
+}
+.contenidoCourses .rectangulo .texto1{
+    cursor: pointer;
+    color: white;
+    margin: 0 10px;
+    margin-right: 20px;
+    padding: 10px;
+    border: 1px;
+
+}
+.contenidoCourses .rectangulo .boton{
+    border: #848D97;
+    color: white;
+    margin: 0 10px;
+    margin-left: 600px;
+    align-items: right;
+}
+.contenidoCourses .linea hr{
+    border: none;
+    border-top: 0.5px solid rgb(53, 53, 53);
+    width: 100%; 
+    margin: 120px 0; 
+}
+.contenidoCourses .inferior{
+    width:100%;
+    display:flex;
+    gap:10px;
+    justify-content:left;
+    align-items:center;
+}
+.contenidoCourses .inferior .texto2 {
+    width: 100%;
+    color: white;
+    margin-right: -1100px;
+    display: flex;
+}
+.contenidoCourses .inferior .links{
+    width:92%;
+    display:flex;
+    gap:10px;
+    justify-content:left;
+    align-items:left;
+}
+
